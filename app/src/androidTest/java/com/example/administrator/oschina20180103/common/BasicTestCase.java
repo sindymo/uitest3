@@ -43,4 +43,8 @@ public class BasicTestCase {
         // 等待应用启动
         //device.wait(Until.hasObject(By.res("")),5000);
     }
+     @Test
+    public void name() throws Exception {
+        
+    }
 }
